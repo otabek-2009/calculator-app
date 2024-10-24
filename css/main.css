@@ -1,0 +1,17 @@
+
+
+/* CONTAINER */
+.container {
+    width: 100%;
+    max-width: 1540px;
+    margin: 0 auto;
+    margin-left: 15px;
+    padding: 15px;
+}
+
+body {
+    background: #3A4663;
+
+    font-family: "League Spartan";
+}
+/* CONTAINER */
